@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(240, 240, 161);
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1,
+h2 {
+  font-style: oblique;
+}
+
+img {
+  border: solid;
+  color: rgb(236, 167, 81);
+}
+
+.p1 {
+  font-style: italic;
+  color: black;
+}
+
+.p2:hover {
+  color: crimson;
+}
+ul.a {
+  list-style-type: circle;
+  background-color: rgb(199, 119, 112);
+}
+
+ul.b {
+  list-style-type: square;
+  background: rgb(65, 160, 106);
+}
+
+ul.c {
+  list-style-type: disc;
+  background: rgb(189, 142, 228);
+}
+
+ol.d {
+  list-style-type: decimal;
+}
+.red {
+  color: red;
+}
+.line {
+  border: 3px solid rgba(233, 161, 28, 0.911);
+  color: black;
+  background: skyblue;
+}
+.line2 {
+  border: 3px solid rgb(152, 197, 61);
+  background: rgb(162, 241, 162);
+}
